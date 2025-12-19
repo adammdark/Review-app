@@ -18,7 +18,7 @@ This project uses **JSON Server** as a mock backend to store review data locally
 ## 🛠️ Tech Stack
 
 - **Frontend:** React (Functional Components, Hooks), Material UI.
-- **API library** - Axios.
+- **API library:** Axios.
 - **Module Bundler:** vite.
 - **Backend:** JSON Server.
 - **Language:** JavaScript (ES6+).
