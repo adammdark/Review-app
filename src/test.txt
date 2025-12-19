@@ -1,0 +1,36 @@
+function App() {
+  
+  const name = "dragon";
+  const age = 25;
+
+  const users = [
+    {id:1,text:"user1"},
+    {id:2,text:"user2"}
+  ];
+
+  const blockUsers = (
+    <ul>
+        {users.map((user,index)=>(
+          <li key={user.id}>{user.text}</li>
+        ))}
+      </ul>
+  );
+
+  const showUsers = true;
+  
+  return(
+   
+    <div className="container">
+      <h1>Hello world</h1>
+      <p>this is react</p>
+
+      <h2>name: {name}</h2>
+      <h2>age: {age}</h2>
+
+     
+    {showUsers && blockUsers};
+
+    </div>
+    
+  );
+}
