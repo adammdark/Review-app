@@ -66,7 +66,7 @@ npm start
 
 ---
 
-## 🎥 Demo Links
+## 📷 Screenshots
 
-To see the live demo click this ➡️ [live demo]()
+
 
