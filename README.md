@@ -61,12 +61,15 @@ the server will runs at `http://localhost:3000/posts`
 ### 4️⃣ Start the React App
 
 ``` bash
-npm start
+npm run dev
 ```
 
 ---
 
 ## 📷 Screenshots
 
-
+<p align="center">
+  <img src="public/screenshot-1.png" width="700" alt="Review App Screenshot" />
+  <img src="public/screenshot-2.png" width="700" alt="Review App Screenshot" />
+</p>
 
